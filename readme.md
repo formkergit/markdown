@@ -4,6 +4,6 @@
 
 [Source Wikipédia](https://fr.wikipedia.org/wiki/Markdown)
 
-# Les titres
+# Les titres 
 
-# Syntaxe texte
+# Texte
